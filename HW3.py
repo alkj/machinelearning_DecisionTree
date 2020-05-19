@@ -7,6 +7,8 @@
 #
 # Please note that only **NUMPY** can be used to implement your model, you will get no points by
 # simply calling sklearn.tree.DecisionTreeClassifier
+# 
+# by Alexander Kjeldsen
 
 import numpy as np
 import pandas as pd
